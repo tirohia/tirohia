@@ -1,0 +1,35 @@
+baseURL = "http://tirohia.net"
+languageCode = "en-us"
+title = "Tirohia"
+theme = "PaperMod"
+
+
+
+[[menu.main]]
+identifier = "categories"
+name = "talks"
+url = "/talks/"
+weight = 10
+
+[[menu.main]]
+identifier = "about"
+name = "about"
+url = "/about/"
+weight = 20
+
+
+[params.profileMode]
+enabled = true
+imageUrl = ".hugo/images/tirohia/tirohiaHillCircle.png"
+imageTitle = "theHill"
+imageWidth = 400
+imageHeight = 400
+
+
+[[params.socialIcons]]
+name = "Twitter"
+url = "https://twitter.com/3rdKingsland"
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/tirohia"
