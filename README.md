@@ -3,7 +3,7 @@
 tiro
 1. (verb) (-hia) to look at, inspect, examine, observe, survey, view.
 
-Currently working as the implementation lead for the Rakeiora Project, a [Genomics Aotearoa](https://www.genomics-aotearoa.org.nz/)  initiave building a prototype precision medicine system designed with Māori to aid research and clinical practive in Aotearoa. 
+I am a bioinformatician, currently working as the implementation lead for the Rakeiora Project, a [Genomics Aotearoa](https://www.genomics-aotearoa.org.nz/) initiave building a prototype precision medicine system designed with Māori to aid research and clinical practive in Aotearoa. 
 
 I don't get to code anywhere near as much as I would like these days. 
 
