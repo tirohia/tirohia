@@ -3,9 +3,9 @@
 tiro
 1. (verb) (-hia) to look at, inspect, examine, observe, survey, view.
 
-Up in the hills behind the house I grew up in there was a small stone wall. From that wall you could see far out across the Hauraki plains. I was given to understand that small wall was is what is left of a lookout, a place for Ngāti Hako sentires to watch and provide forewarning of travellers and invaders alike. 
+Currently working as the implementation lead for the Rakeiora Project, a [Genomics Aotearoa](https://www.genomics-aotearoa.org.nz/)  initiave building a prototype precision medicine system designed with Māori to aid research and clinical practive in Aotearoa. 
 
-
+I don't get to code anywhere near as much as I would like these days. 
 
 <!--
 **tirohia/tirohia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
