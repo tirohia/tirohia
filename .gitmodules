@@ -4,9 +4,6 @@
 [submodule "themes/hugo-coder"]
 	path = themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
-[submodule "tirohiaDev/themes/hugo-coder"]
-	path = tirohiaDev/themes/hugo-coder
-	url = https://github.com/luizdepra/hugo-coder.git
 [submodule ".hugo/themes/PaperMod"]
 	path = .hugo/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
