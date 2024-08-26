@@ -3,7 +3,7 @@
 tiro
 1. (verb) (-hia) to look at, inspect, examine, observe, survey, view.
 
-I am a bioinformatician, currently working for the CHildrens Cancer Insititue in Sydney working on tumor classification and knowledge extraction. 
+I am a bioinformatician, currently working for the Childrens Cancer Insititue in Sydney working on tumor classification and knowledge extraction. 
 
 I don't get to code anywhere near as much as I would like these days. 
 
